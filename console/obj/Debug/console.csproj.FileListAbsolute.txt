@@ -1,0 +1,8 @@
+D:\henry\Proyectos\belatrix\console\bin\Debug\console.exe.config
+D:\henry\Proyectos\belatrix\console\bin\Debug\console.exe
+D:\henry\Proyectos\belatrix\console\bin\Debug\console.pdb
+D:\henry\Proyectos\belatrix\console\bin\Debug\BusinessLogic.dll
+D:\henry\Proyectos\belatrix\console\bin\Debug\BusinessLogic.pdb
+D:\henry\Proyectos\belatrix\console\obj\Debug\console.csprojResolveAssemblyReference.cache
+D:\henry\Proyectos\belatrix\console\obj\Debug\console.exe
+D:\henry\Proyectos\belatrix\console\obj\Debug\console.pdb

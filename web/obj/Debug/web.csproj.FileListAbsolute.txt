@@ -1,0 +1,8 @@
+D:\henry\Proyectos\belatrix\web\bin\web.dll.config
+D:\henry\Proyectos\belatrix\web\bin\web.dll
+D:\henry\Proyectos\belatrix\web\bin\web.pdb
+D:\henry\Proyectos\belatrix\web\obj\Debug\web.csprojResolveAssemblyReference.cache
+D:\henry\Proyectos\belatrix\web\obj\Debug\web.dll
+D:\henry\Proyectos\belatrix\web\obj\Debug\web.pdb
+D:\henry\Proyectos\belatrix\web\bin\BusinessLogic.dll
+D:\henry\Proyectos\belatrix\web\bin\BusinessLogic.pdb

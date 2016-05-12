@@ -1,0 +1,5 @@
+D:\henry\Proyectos\belatrix\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\henry\Proyectos\belatrix\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\henry\Proyectos\belatrix\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\henry\Proyectos\belatrix\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\henry\Proyectos\belatrix\BusinessLogic\obj\Debug\BusinessLogic.pdb
